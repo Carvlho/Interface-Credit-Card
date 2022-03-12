@@ -1,0 +1,6 @@
+module Pods_CreditCard {
+  umbrella header "Pods-CreditCard-umbrella.h"
+
+  export *
+  module * { export * }
+}
